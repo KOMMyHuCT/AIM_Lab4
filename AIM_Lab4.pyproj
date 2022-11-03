@@ -11,6 +11,7 @@
     <OutputPath>.</OutputPath>
     <Name>AIM_Lab4</Name>
     <RootNamespace>AIM_Lab4</RootNamespace>
+    <IsWindowsApplication>False</IsWindowsApplication>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
